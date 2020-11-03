@@ -1,1 +1,1 @@
-# UndergraduateProjectMultiTaskNetwork
+学部4年の卒業研究で作成した、単眼RGB画像一枚を入力として、その物体の種類、座標、及び回転角を自作データセットから学習し、推定を行うモジュールです。
